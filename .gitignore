@@ -1,0 +1,29 @@
+# Node modules
+node_modules
+**/node_modules
+
+# Env files
+.env
+.env.local
+.env.development
+.env.production
+
+# Build outputs
+.next
+dist
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
+
+# DB
+*.sqlite
+*.db
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,162 @@
+[
+  {
+    "stock": 15,
+    "name": "Wireless Headphones",
+    "description": "High-quality sound with noise cancellation.",
+    "price": 89.99,
+    "image": "https://www.shutterstock.com/image-photo/wireless-headphones-charging-case-close-600nw-2189033327.jpg",
+    "category": "Electronics"
+  },
+  {
+    "stock": 25,
+    "name": "Bluetooth Speaker",
+    "description": "Portable speaker with powerful bass.",
+    "price": 45.50,
+    "image": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_JBL/default/dw10d7a961/JBL_Flip_6_Product_Page_Hero_Midnight_Black_1600x1600.png",
+    "category": "Electronics"
+  },
+  {
+    "stock": 12,
+    "name": "Smartwatch",
+    "description": "Track your health and notifications.",
+    "price": 149.99,
+    "image": "https://media.istockphoto.com/id/1149454178/photo/smart-watch-close-up-on-a-white-background-3d-render.jpg?s=612x612&w=0&k=20&c=6Xl1L-4c1JmJbU1W6J8L1Z9_P_W2_qT6B8Wn0F4eN9g=",
+    "category": "Wearables"
+  },
+  {
+    "stock": 40,
+    "name": "Running Shoes",
+    "description": "Comfortable and lightweight for jogging.",
+    "price": 59.00,
+    "image": "https://static.nike.com/a/images/t_default/f0ec8319-3351-4034-8c85-28562d94e320/vomero-18-mens-road-running-shoes-07k8fG.png",
+    "category": "Footwear"
+  },
+  {
+    "stock": 30,
+    "name": "Gaming Mouse",
+    "description": "RGB mouse with high precision.",
+    "price": 29.99,
+    "image": "https://www.shutterstock.com/image-photo/modern-gaming-mouse-isolated-on-600nw-1049363065.jpg",
+    "category": "Accessories"
+  },
+  {
+    "stock": 18,
+    "name": "Laptop Stand",
+    "description": "Adjustable stand for ergonomic use.",
+    "price": 34.99,
+    "image": "https://www.shutterstock.com/image-photo/laptop-aluminium-stand-isolated-on-600nw-1959771142.jpg",
+    "category": "Office"
+  },
+  {
+    "stock": 22,
+    "name": "Mechanical Keyboard",
+    "description": "Tactile feedback with customizable keys.",
+    "price": 69.99,
+    "image": "https://www.shutterstock.com/image-photo/side-view-beige-color-mechanical-600nw-2319080789.jpg",
+    "category": "Accessories"
+  },
+  {
+    "stock": 35,
+    "name": "Fitness Tracker",
+    "description": "Track steps, sleep, and workouts.",
+    "price": 39.99,
+    "image": "https://www.garmin.com/en-GB/static/img/products/wearables/vivosmart-5/PDP_Vivosmart_5_Hero_Black_White_Web_1500x1500.webp",
+    "category": "Wearables"
+  },
+  {
+    "stock": 10,
+    "name": "LED Monitor 24\"",
+    "description": "Full HD display with vivid colors.",
+    "price": 129.99,
+    "image": "https://i.dell.com/is/image/DellIns/PDP_P2425H_800x800",
+    "category": "Electronics"
+  },
+  {
+    "stock": 60,
+    "name": "Water Bottle",
+    "description": "Stainless steel, insulated.",
+    "price": 19.99,
+    "image": "https://media.istockphoto.com/id/1169007469/photo/white-gray-and-black-thermos-bottles-aluminium-thermos-bottle-on-white-background-3d-rendering.jpg?s=612x612&w=0&k=20&c=6t90-1c5cK5sTqL5FpG2xX1z6Y_eGf_i_E3d7yX7P0M=",
+    "category": "Lifestyle"
+  },
+  {
+    "stock": 14,
+    "name": "Noise Cancelling Earbuds",
+    "description": "Compact and powerful audio.",
+    "price": 79.99,
+    "image": "https://assets.boseindia.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc_earbuds/product_page/qc-earbuds-triple-black-primary-1.png/jcr:content/renditions/cq5dam.thumbnail.1280.1280.png",
+    "category": "Electronics"
+  },
+  {
+    "stock": 33,
+    "name": "Desk Lamp",
+    "description": "Adjustable LED lamp with USB port.",
+    "price": 22.50,
+    "image": "https://media.istockphoto.com/id/1392683832/photo/desk-lamp.jpg?s=612x612&w=0&k=20&c=X73y4Nys4H3g_u90Rz5b4oU3mG0T5W2E_J1W3jQ0s_A=",
+    "category": "Home"
+  },
+  {
+    "stock": 27,
+    "name": "Backpack",
+    "description": "Spacious, water-resistant, with laptop sleeve.",
+    "price": 44.00,
+    "image": "https://media.istockphoto.com/id/1138090547/photo/yellow-open-backpack.jpg?s=612x612&w=0&k=20&c=w8i2308_yVlQYd8L2Y_R-J-L6C6mF1V-bL1B1_eZ-iU=",
+    "category": "Accessories"
+  },
+  {
+    "stock": 20,
+    "name": "Yoga Mat",
+    "description": "Eco-friendly and non-slip surface.",
+    "price": 25.00,
+    "image": "https://superdry.in/images/products/1500x1500/1010313500001_1.jpg",
+    "category": "Fitness"
+  },
+  {
+    "stock": 5,
+    "name": "Digital Camera",
+    "description": "High-resolution photography with zoom lens.",
+    "price": 249.00,
+    "image": "https://www.kodak.com/global/images/products/cameras/wpz2/features/wpz2_hero_thumb.jpg",
+    "category": "Electronics"
+  },
+  {
+    "stock": 50,
+    "name": "Portable Charger",
+    "description": "10,000mAh power bank for travel.",
+    "price": 18.75,
+    "image": "https://media.istockphoto.com/id/1344445582/photo/silver-power-bank.jpg?s=612x612&w=0&k=20&c=4o73KkQjP6m_J2sS_V3T9jQ5w1Z2q7J7S_5f4J9qQ-Q=",
+    "category": "Accessories"
+  },
+  {
+    "stock": 37,
+    "name": "Desk Organizer",
+    "description": "Keep your workspace tidy and efficient.",
+    "price": 14.99,
+    "image": "https://media.istockphoto.com/id/1057488960/photo/desk-organizer-with-office-supplies-on-white-background.jpg?s=612x612&w=0&k=20&c=Kk7x3QxY1u5W4B8fM0Z4R6W0Z7o-x1T3-7Y-7K-0Y_0=",
+    "category": "Office"
+  },
+  {
+    "stock": 16,
+    "name": "Wireless Router",
+    "description": "Fast dual-band internet connection.",
+    "price": 59.95,
+    "image": "https://www.netgear.com/media/RAX10_angle_L_tcm152-78888.png",
+    "category": "Electronics"
+  },
+  {
+    "stock": 45,
+    "name": "Sunglasses",
+    "description": "UV protection with a stylish frame.",
+    "price": 27.00,
+    "image": "https://media.istockphoto.com/id/511674390/photo/sunglass-on-white-background.jpg?s=612x612&w=0&k=20&c=Ym2w_qT6xV1d5P2gG7_l3l0T3-8-3B7-2_2_x0_0_0=",
+    "category": "Fashion"
+  },
+  {
+    "stock": 28,
+    "name": "Bluetooth Keyboard",
+    "description": "Slim, portable, multi-device support.",
+    "price": 33.00,
+    "image": "https://media.istockphoto.com/id/484738531/photo/wireless-bluetooth-computer-keyboard.jpg?s=612x612&w=0&k=20&c=i36m05lW7WwL9R80vWzYy1_R-f7z_j_q5d_v8q7d7e8=",
+    "category": "Accessories"
+  }
+]
