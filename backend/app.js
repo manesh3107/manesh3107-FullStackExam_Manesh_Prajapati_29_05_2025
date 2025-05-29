@@ -9,7 +9,10 @@ const connectMongo = require('./config/mongodb');
 const app = express();
 
 app.use(cors({
-  origin: "http://localhost:3000" || '*', // Allow all origins by default
+  origin: [
+    "http://localhost:3000",
+    "https://manesh3107-full-stack-exam-manesh-p.vercel.app"
+  ], // Allow listed origins
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
 }));
