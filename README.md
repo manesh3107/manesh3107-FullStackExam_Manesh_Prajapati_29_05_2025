@@ -90,7 +90,7 @@ npm run dev
 
 ```bash
 cd backend
-npm ru
+npm run dev
 ```
 
 ## Folder Breakdown
